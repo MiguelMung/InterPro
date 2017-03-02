@@ -1,0 +1,38 @@
+Sistema que permita ver las materias del siguiente semeste
+Tres tipos de usuario: Admin Gral., Jefe de Departamento, Coordinador General
+
+Jefe de Departamento
+Dar de Alta una materia
+Asignar Profesores
+Asignar horarios y salones
+
+Tabla de Materias
+
+
+Materia:
+Clave Materia
+NRC
+Nombre
+Seccion
+
+X
+INF
+INNI
+INCO
+COM
+
+T
+CEL
+INCE
+
+R
+BIO
+INBI
+
+U
+MAT
+
+
+------------------------------------------------------------------------------------------------------------------------
+ETAPA 3
+CONECTAR LAS 3 COMPUTADORAS AL SISTEMA Y HACER CAMBIOS

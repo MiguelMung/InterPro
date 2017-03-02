@@ -1,0 +1,168 @@
+
+html {
+	width: 100%
+	height: 100%;
+}
+
+body {
+	width: 100%
+	height: 100%;
+
+	background-color: #D8D8D8;
+}
+
+h1 {
+	width: auto;
+	height: auto;
+	margin: 3% auto 6% auto;
+	padding: auto;
+	border: auto;
+
+	font: bold 2rem Arial;
+	color: #000000;
+	text-align: center;
+	text-shadow: #0000FF 0px 1px 1px;
+}
+
+h2 {
+	width: auto;
+	height: auto;
+	margin: 4.5% auto 3% auto;
+	padding: auto;
+	border: auto;
+
+	font: bold 1.5rem sans-serif;
+	color: #000000;
+	text-align: center;
+	text-shadow: #0000FF 0px 1px 1px;
+}
+
+#principal {
+	margin: 2% 30%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	border: solid 1px #0000FF;
+	border-radius: 2rem;
+
+	background-color: #E6E6E6;
+	box-shadow: #00FFFF 0px 0px 1px;
+}
+
+#sesion {
+	margin: 1% 40%;
+	border: solid 1px #0000FF;
+	border-radius: .5rem;
+
+	background-color: #E6E6E6;
+	box-shadow: #00FFFF 0px 0px 1px;
+}
+
+.secundario {
+	margin: 2.5% 15%;
+	border: solid 1px #0000FF;
+	border-radius: 1.5rem;
+
+	background-color: #E6E6E6;
+	box-shadow: #00FFFF 0px 0px 1px;
+}
+
+.btn {
+	/*width: 35%;*/
+	width: 20rem;
+	height: 2.5rem;
+	border-radius: 1rem;
+	
+	background-color: #58ACFA;
+
+	font: bold .9rem arial;
+	color: #0404B4;
+}
+
+.btn:hover {
+	background-color: #81DAF5;
+	box-shadow: #000000 0px 2px 0px;
+}
+
+.blackBackground {
+	margin: 3% 15%;
+	padding: 1%;
+	border-radius: .75rem;
+	
+	background-color: #000000;
+
+	font: normal 1rem verdana;
+	color: #FF0000;
+}
+
+.blackBackground:hover {
+	box-shadow: #FF0000 0px 0px 2px;
+}
+
+.blueBackground {
+	margin: 3% 15%;
+	padding: 1%;
+	border-radius: .75rem;
+	
+	background-color: #0000FF;
+
+	font: normal 1rem verdana;
+	color: #FFFFFF;
+}
+
+.lightGreenBackground {
+	margin: 2.5% 30%;
+	padding: .5rem 1rem;
+	border-radius: .5rem;
+	background-color: #2EFE2E;
+
+	font: bold 1rem Arial;
+	color: #FFFFFF;
+}
+
+.lightBlueBackground {
+	margin: 2.5% 5%;
+	padding: .75rem 1rem;
+	border-radius: 1rem;
+
+	background-color: #A9D0F5;
+}
+
+.lightBlueBackground:hover {
+	box-shadow: #000000 0px 0px 5px;
+}
+
+.redBackground {
+	margin: 3% 15%;
+	padding: 1%;
+	border-radius: .75rem;
+	
+	background-color: #000000;
+
+	font: normal 1rem verdana;
+	color: #FF0000;
+}
+
+.center {	
+	text-align: center;
+}
+
+.left {	
+	text-align: left;
+}
+
+.right {	
+	text-align: right;
+}
+
+.justify { 
+	text-align: justify;
+}
+
+.bold {
+	font: bold 1rem auto;
+}
+
+a {
+	text-decoration: none;
+}
